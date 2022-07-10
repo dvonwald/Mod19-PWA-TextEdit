@@ -28,6 +28,7 @@ This project was done to learn about PWAs (progressive web applications), specif
 2. Then in a terminal window, CD into that directory.
 3. Then run an npm i command to install the require node modules.
 4. From there you can do a npm run start:dev to and open up the application in localhost:3000. You can also use the application on Heroku where it is deployed at:
+   https://fast-falls-47461.herokuapp.com/
 
 ## Usage
 
